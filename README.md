@@ -5,7 +5,9 @@ Hello, all. We have worked on the AirBnb Booking dataset of the year 2019. The d
 We have tried to work on the data and get three things out of it:
 
 a. We have tried to understand the user behaviour
+
 b. We have tried to understand the hosts' behaviour
+
 c. And most importantly, we have used those two to advice or suggest the stakeholders of AirBnb few points which when worked on will help drive the business in our humble opinion.
 
 We hope that you like the project and we would like to listen to your thoughts on it. You can reach me at shivchirag1997@gmail.com
